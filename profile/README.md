@@ -15,7 +15,3 @@ Most software is written as if the machine were an abstraction. **We work where 
 - **Measure, never guess.** A flamegraph beats an opinion.
 - **Microseconds compound.** At a million requests a second, 5&nbsp;µs is real money.
 - **The lowest layer has the most leverage.** Fix it once, and everything above gets faster.
-
----
-
-<p align="center"><a href="https://203x.io"><b>203x.io</b></a></p>
